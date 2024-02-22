@@ -3,7 +3,9 @@
 
 **Android (Termux)**
 
-    git
+    pkg install git && git clone https://github.com/Rouyea/vss && cd vss && chmod +x * && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.bashrc && source $HOME/.bashrc && exit
+
+Android (Termux)
 
 
 
